@@ -12,9 +12,9 @@ I enjoy working on **data-driven projects**, building **scalable ML models**, an
 - **Statistical Methods:** ANOVA, Hypothesis Testing, A/B Testing, Predictive Modeling
 
 ## 📌 Featured Projects  
-- 🚀 **AI-Powered Chatbot**: Improved search efficiency by 98% and reduced customer response time by 40%  
-- 🎯 **Predictive Modeling for Business Insights**: 
-- 🏆 **NLP-based Information Retrieval**:  
+- 🚀 **AI-Powered Chatbot**: Developed a language model-based chatbot that enhanced customer experience by improving search efficiency by 98% and reducing response time.
+- 🎯 **Predictive Modeling for Business Insights**: Built and deployed machine learning models using Python and scikit-learn to forecast delivery schedules and optimize pricing strategies. Achieved a 15% increase in profitability through refined operational planning and data-driven decision-making. 
+- 🏆 **NLP-based Information Retrieval**: Designed and implemented a Named Entity Recognition (NER) pipeline using PySpark on Databricks to extract structured insights from unstructured text, improving data accuracy by 25%. Leveraged NLP to enhance the quality of search and document classification.
 
 ## 📫 Let's Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/swapna-kumar/)  
