@@ -7,8 +7,8 @@ I enjoy working on **data-driven projects**, building **scalable ML models**, an
 ## 🔧 Skills  
 - **Programming:** Python, SQL, PySpark 
 - **Machine Learning:** Linear & Logistic Regression, Discriminant Analysis, Support Vector Machines, Decision Trees, Forest Models, NLP, Clustering, KNN  
-- **Tech Stack:** TensorFlow, PyTorch, Pandas, NumPy, SciPy, Databricks, Azure  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn, Scikit-learn
+- **Tech Stack:** TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Databricks, Azure  
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
 - **Statistical Methods:** ANOVA, Hypothesis Testing, A/B Testing, Predictive Modeling
 
 ## 📌 Featured Projects  
