@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Swapna Batra!  
 
 ## About Me  
-I am a Data Scientist with expertise in **Machine Learning, NLP, AI-driven solutions, and Data Analytics**. I have experience in **developing predictive and statistical models, supervised and unsupervised algorithms, data visualization, and optimization techniques**. 
+I am an Gen-AI Data Scientist with expertise in **AI-driven solutions, Machine Learning, NLP, and Data Analytics**. I have experience in **developing large language based models, chatbot, predictive and statistical models, supervised and unsupervised algorithms, data visualization, and optimization techniques**. 
 I enjoy working on **data-driven projects**, building **scalable ML models**, and collaborating with cross-functional teams to solve complex business challenges.  
 
 ## 🔧 Skills  
