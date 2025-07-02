@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Swapna Batra!  
 
 ## About Me  
-I'm a Gen-AI Data Scientist with expertise in **AI-driven solutions, Machine Learning, NLP, and Data Analytics**. I have experience in **developing large language based models, chatbot, predictive and statistical models, supervised and unsupervised algorithms, data visualization, and optimization techniques**. 
-I enjoy working on **data-driven projects**, building **scalable ML models**, and collaborating with cross-functional teams to solve complex business challenges.  
+As a **GenAI Data Scientist**, I specialize in AI-powered solutions, machine learning, NLP, and advanced analytics. My experience includes developing large language models, conversational AI systems, and predictive models using both supervised and unsupervised approaches. I bring strong skills in optimization, statistical modeling, and data visualization, and enjoy building scalable, production-ready ML pipelines. I’m passionate about translating complex data into actionable insights and thrive in collaborative teams solving high-impact business problems.
 
 ## 🔧 Skills  
+- **AI & LLM Tooling:** LangChain, Hugging Face Transforners, OpenAI API, FAISS, chromDB
 - **Programming:** Python, SQL, PySpark 
-- **Machine Learning:** Linear & Logistic Regression, Discriminant Analysis, Support Vector Machines, Decision Trees, Forest Models, NLP, Clustering, KNN  
+- **Machine Learning:** Linear & Logistic Regression, SVM, Decision Trees, Forest Models, Clustering, KNN
 - **Tech Stack:** TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Databricks, Azure  
 - **Data Visualization:** Tableau, Matplotlib, Seaborn
-- **Statistical Methods:** ANOVA, Hypothesis Testing, A/B Testing, Predictive Modeling
 
 ## 📌 Featured Projects  
-- 🚀 **AI-Powered Chatbot**: Developed a language model-based chatbot that enhanced customer experience by improving search efficiency by 98% and reducing response time.
-- 🎯 **Predictive Modeling for Business Insights**: Built and deployed machine learning models using Python and scikit-learn to forecast delivery schedules and optimize pricing strategies. Achieved a 15% increase in profitability through refined operational planning and data-driven decision-making. 
-- 🏆 **NLP-based Information Retrieval**: Designed and implemented a Named Entity Recognition (NER) pipeline using PySpark on Databricks to extract structured insights from unstructured text, improving data accuracy by 25%. Leveraged NLP to enhance the quality of search and document classification.
+- **Conversational PDF Chatbot**: Developed an AI-powered chatbot using GPT-3.5, LangChain, and Gradio to automate HR query resolution from internal PDF documents. Implemented document parsing, embedding generation (FAISS/ChromaDB), and a conversational interface to streamline Nestlé’s HR operations and improve response efficiency.
+- **AI-Powered Chatbot**: Developed a language model-based chatbot that enhanced customer experience by improving search efficiency by 98% and reducing response time.
+- **Predictive Modeling for Business Insights**: Built and deployed machine learning models using Python and scikit-learn to forecast delivery schedules and optimize pricing strategies. Achieved a 15% increase in profitability through refined operational planning and data-driven decision-making. 
+- **NLP-based Information Retrieval**: Designed and implemented a Named Entity Recognition (NER) pipeline using PySpark on Databricks to extract structured insights from unstructured text, improving data accuracy by 25%. Leveraged NLP to enhance the quality of search and document classification.
 
 ## 📫 Let's Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/swapna-kumar/)  
