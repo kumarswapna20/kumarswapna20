@@ -4,7 +4,7 @@
 As a **GenAI Data Scientist**, I specialize in AI-powered solutions, machine learning, NLP, and advanced analytics. My experience includes developing large language models, conversational AI systems, and predictive models using both supervised and unsupervised approaches. I bring strong skills in optimization, statistical modeling, and data visualization, and enjoy building scalable, production-ready ML pipelines. I’m passionate about translating complex data into actionable insights and thrive in collaborative teams solving high-impact business problems.
 
 ## 🔧 Skills  
-- **AI & LLM Tooling:** LangChain, Hugging Face Transforners, OpenAI API, FAISS, chromaDB
+- **AI & LLM Tooling:** LangChain, Agentic AI, Hugging Face Transforners, OpenAI API, FAISS, chromaDB
 - **Programming:** Python, SQL, PySpark 
 - **Machine Learning:** Linear & Logistic Regression, SVM, Decision Trees, Forest Models, Clustering, KNN
 - **Tech Stack:** TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Databricks, Azure  
