@@ -1,46 +1,21 @@
-<h1 align="center">Hi 👋, I'm Swapna Batra</h1>
-<h3 align="center">Data Analyst/Data Scientist </h3>
+## 👋 Welcome to my GitHub!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/your-gif.gif" width="600"/>
-</p>
+Data Scientist | GenAI | NLP | ML Systems  
 
-## 🚀 Quick Snapshot
-- 💡 GenAI Data Scientist with experience in LLMs & NLP
-- 🤖 Built AI assistants improving response time by 40%
-- 📊 Strong in ML, optimization & predictive modeling
-- ☁️ Experience with Azure, Databricks & scalable pipelines
+I build AI-powered solutions, scalable data pipelines, and predictive models that turn data into actionable insights. Passionate about solving real-world problems using LLMs, analytics, and modern data technologies.
 
-## 🛠️ Tech Stack
 
-**Languages & Tools:**
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
-![PySpark](https://img.shields.io/badge/PySpark-orange)
+## 🚀 About Me  
 
-**AI/ML:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-blue)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+- 🎓 **Master’s in Mathematics (Data Science)** @ UT Dallas  
+- 🔭 **Data Scientist / AI Engineer** specializing in GenAI & LLMs  
+- 💻 **AI Engineer Intern @ Incedo Inc.**  
+- 💻 **Operations Analyst @ Hallmark Aviation Services**  
+- 🤖 Built **LLM chatbots, NLP systems & ML pipelines**  
+- 🌱 Exploring **Agentic AI | RAG | LLM Optimization**  
+- 🎯 Seeking **Full-Time Roles in Data Science & AI/ML**  
 
-**GenAI:**
-![LangChain](https://img.shields.io/badge/LangChain-green)
-![FAISS](https://img.shields.io/badge/FAISS-purple)
-![OpenAI](https://img.shields.io/badge/OpenAI-black)
-
-## 🌟 Featured Projects
-
-### 🤖 Conversational PDF Chatbot
-- Built with GPT-3.5, LangChain, FAISS
-- Automated HR queries for internal documents
-- ⚡ Improved response efficiency significantly
-
-### 📊 Predictive Modeling for Business Insights
-- Built ML models for delivery forecasting
-- 🚀 Increased profitability by 15%
-- Tools: Python, Scikit-learn
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/swapna-kumar/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:kumarswapna20@gmail.com)
+📫 **Email:** kumarswapna20@gmail.com  
+🔗 **Portfolio:** https://yourportfolio.com  
+👨‍💻 **Projects:** https://github.com/yourusername  
 
