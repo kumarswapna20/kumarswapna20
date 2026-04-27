@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub!
+<h1 align="center">Hi 👋, I'm Swapna Batra</h1>
 
 Data Scientist | GenAI | NLP | ML Systems  
 
