@@ -43,5 +43,4 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/swapna-kumar/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:kumarswapna20@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)](https://yourportfolio.com)
 
