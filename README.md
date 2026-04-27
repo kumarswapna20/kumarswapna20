@@ -9,6 +9,8 @@ I develop data-driven solutions by combining machine learning, advanced analytic
  
 - 🔭 **Data Analyst/ Data Scientist** specializing in GenAI & LLMs
 
+- 💻 **Data Analyst @ Phantom Logistics llc**
+
 - 💻 **AI Engineer Intern @ Incedo**
   
 - 💻 **Operations Analyst @ Hallmark Aviation Services**
