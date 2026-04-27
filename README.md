@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapna Batra</h1>
 
-Data Scientist | GenAI | NLP | ML Systems  
-
 I build AI-powered solutions, scalable data pipelines, and predictive models that turn data into actionable insights. Passionate about solving real-world problems using LLMs, analytics, and modern data technologies.
 
 
