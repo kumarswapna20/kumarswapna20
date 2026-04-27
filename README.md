@@ -21,5 +21,3 @@ I develop data-driven solutions by combining machine learning, advanced analytic
 
 📫 **Email:** kumarswapna20@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/swapna-batra
-👨‍💻 **Projects:** https://github.com/kumarswapna20
-
