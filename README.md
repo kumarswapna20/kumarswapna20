@@ -1,24 +1,52 @@
-# 👋 Hi, I'm Swapna Batra!  
+<h1 align="center">Hi 👋, I'm Swapna Batra</h1>
+<h3 align="center">GenAI Data Scientist | LLMs | NLP | Scalable AI Systems</h3>
 
-## About Me  
-As a **GenAI Data Scientist**, I specialize in AI-powered solutions, machine learning, NLP, and advanced analytics. My experience includes developing large language models, conversational AI systems, and predictive models using both supervised and unsupervised approaches. I bring strong skills in optimization, statistical modeling, and data visualization, and enjoy building scalable, production-ready ML pipelines. I’m passionate about translating complex data into actionable insights and thrive in collaborative teams solving high-impact business problems.
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif.gif" width="600"/>
+</p>
 
-## 🔧 Skills  
-- **AI & LLM Tooling:** LangChain, Agentic AI, Hugging Face Transforners, OpenAI API, FAISS, chromaDB
-- **Programming:** Python, SQL, PySpark 
-- **Machine Learning:** Linear & Logistic Regression, SVM, Decision Trees, Forest Models, Clustering, KNN
-- **Tech Stack:** TensorFlow, Pandas, NumPy, SciPy, Scikit-learn, Databricks, Azure  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn
+## 🚀 Quick Snapshot
+- 💡 GenAI Data Scientist with experience in LLMs & NLP
+- 🤖 Built AI assistants improving response time by 40%
+- 📊 Strong in ML, optimization & predictive modeling
+- ☁️ Experience with Azure, Databricks & scalable pipelines
 
-## 📌 Featured Projects  
-- **Conversational PDF Chatbot**: Developed an AI-powered chatbot using GPT-3.5, LangChain, and Gradio to automate HR query resolution from internal PDF documents. Implemented document parsing, embedding generation (FAISS/ChromaDB), and a conversational interface to streamline Nestlé’s HR operations and improve response efficiency.
-- **AI-Powered Chatbot**: Developed a language model-based chatbot that enhanced customer experience by improving search efficiency by 98% and reducing response time.
-- **Predictive Modeling for Business Insights**: Built and deployed machine learning models using Python and scikit-learn to forecast delivery schedules and optimize pricing strategies. Achieved a 15% increase in profitability through refined operational planning and data-driven decision-making. 
-- **NLP-based Information Retrieval**: Designed and implemented a Named Entity Recognition (NER) pipeline using PySpark on Databricks to extract structured insights from unstructured text, improving data accuracy by 25%. Leveraged NLP to enhance the quality of search and document classification.
+## 🛠️ Tech Stack
 
-## 📫 Let's Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swapna-kumar/)  
-- 📧 [Email](mailto:kumarswapna20@gmail.com)  
-- 🏗️ [Portfolio](https://yourportfolio.com)  
+**Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
+![PySpark](https://img.shields.io/badge/PySpark-orange)
 
-💡 *Always exploring new ideas in AI and Data Science!*  
+**AI/ML:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-blue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+
+**GenAI:**
+![LangChain](https://img.shields.io/badge/LangChain-green)
+![FAISS](https://img.shields.io/badge/FAISS-purple)
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+
+## 📈 GitHub Stats
+![Swapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 🌟 Featured Projects
+
+### 🤖 Conversational PDF Chatbot
+- Built with GPT-3.5, LangChain, FAISS
+- Automated HR queries for internal documents
+- ⚡ Improved response efficiency significantly
+
+### 📊 Predictive Modeling for Business Insights
+- Built ML models for delivery forecasting
+- 🚀 Increased profitability by 15%
+- Tools: Python, Scikit-learn
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/swapna-kumar/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:kumarswapna20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black)](https://yourportfolio.com)
+
