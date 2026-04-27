@@ -20,6 +20,6 @@ I build AI-powered solutions, scalable data pipelines, and predictive models tha
 - 🎯 Seeking **Full-Time Roles in Data Science & AI/ML**  
 
 📫 **Email:** kumarswapna20@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/swapna-batra/
+🔗 **LinkedIn:** https://www.linkedin.com/in/swapna-batra
 👨‍💻 **Projects:** https://github.com/kumarswapna20
 
