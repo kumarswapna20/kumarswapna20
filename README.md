@@ -7,7 +7,7 @@ I build AI-powered solutions, scalable data pipelines, and predictive models tha
 
 - 🎓 **Master’s in Mathematics (Data Science)** @ UT Dallas
  
-- 🔭 **Data Scientist / AI Engineer** specializing in GenAI & LLMs
+- 🔭 **Data Analyst/ Data Scientist** specializing in GenAI & LLMs
 
 - 💻 **AI Engineer Intern @ Incedo**
   
@@ -20,6 +20,6 @@ I build AI-powered solutions, scalable data pipelines, and predictive models tha
 - 🎯 Seeking **Full-Time Roles in Data Science & AI/ML**  
 
 📫 **Email:** kumarswapna20@gmail.com  
-🔗 **Portfolio:** https://yourportfolio.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/swapna-batra/
 👨‍💻 **Projects:** https://github.com/yourusername  
 
