@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapna Batra</h1>
-<h3 align="center">Data Analyst/Data Scientist | LLMs | NLP | Scalable AI Systems</h3>
+<h3 align="center">Data Analyst/Data Scientist </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/your-gif.gif" width="600"/>
