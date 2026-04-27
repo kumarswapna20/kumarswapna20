@@ -6,17 +6,17 @@ I build AI-powered solutions, scalable data pipelines, and predictive models tha
 ## 🚀 About Me  
 
 - 🎓 **Master’s in Mathematics (Data Science)** @ UT Dallas
-- 
+ 
 - 🔭 **Data Scientist / AI Engineer** specializing in GenAI & LLMs
-- 
+
 - 💻 **AI Engineer Intern @ Incedo**
-- 
+  
 - 💻 **Operations Analyst @ Hallmark Aviation Services**
-- 
+  
 - 🤖 Built **LLM chatbots, NLP systems & ML pipelines**
-- 
+  
 - 🌱 Exploring **Agentic AI | RAG | LLM Optimization**
-- 
+  
 - 🎯 Seeking **Full-Time Roles in Data Science & AI/ML**  
 
 📫 **Email:** kumarswapna20@gmail.com  
