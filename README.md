@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapna Batra</h1>
 
-I build AI-powered solutions, scalable data pipelines, and predictive models that turn data into actionable insights. Passionate about solving real-world problems using LLMs, analytics, and modern data technologies.
+I develop data-driven solutions by combining machine learning, advanced analytics, and scalable data pipelines to extract meaningful insights from complex data. With experience in predictive modeling, NLP, and LLM-based applications, I focus on solving real-world problems and enabling data-informed decision-making.
 
 
 ## 🚀 About Me  
