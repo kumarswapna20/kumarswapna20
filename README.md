@@ -21,5 +21,5 @@ I build AI-powered solutions, scalable data pipelines, and predictive models tha
 
 📫 **Email:** kumarswapna20@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/swapna-batra/
-👨‍💻 **Projects:** https://github.com/yourusername  
+👨‍💻 **Projects:** https://github.com/kumarswapna20
 
