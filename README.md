@@ -13,8 +13,6 @@ I develop data-driven solutions by combining machine learning, advanced analytic
 
 - 💻 **AI Engineer Intern @ Incedo**
   
-- 💻 **Operations Analyst @ Hallmark Aviation Services**
-  
 - 🤖 Built **LLM chatbots, NLP systems & ML pipelines**
   
 - 🌱 Exploring **Agentic AI | RAG | LLM Optimization**
